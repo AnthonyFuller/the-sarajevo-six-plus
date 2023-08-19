@@ -1,10 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"id": "anthonyfuller.thesarajevosixplus",
 	"name": "The Sarajevo Six+",
 	"description": "Adds quality of life fixes and new features to the official release of The Sarajevo Six. ",
 	"authors": ["Anthony Fuller"],
 	"incompatibilities": ["anthonyfuller.thesarajevosix"],
-	"frameworkVersion": "2.25.1"
+	"frameworkVersion": "2.31.2",
+	"updateCheck": "https://github.com/AnthonyFuller/the-sarajevo-six-plus/releases/latest/download/updates.json"
 }
